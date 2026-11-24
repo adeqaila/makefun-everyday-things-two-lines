@@ -1,0 +1,2 @@
+A toaster is a tiny elevator for bread that carries it down into the heat and brings it back up brown.
+It works because both carry something down and up again, but it leaves out that an elevator can stop at any floor while a toaster only knows down, hot, and pop.
